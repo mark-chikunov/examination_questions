@@ -53,7 +53,7 @@ ol.link_1 li {
     color : white;
     background: rgba(0, 0, 0, 0.7);
     display: inline-block;
-    justify-content: center;
+    /*justify-content: center;*/
     position: relative;
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 0px 0px;
