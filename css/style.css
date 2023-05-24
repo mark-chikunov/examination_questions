@@ -95,7 +95,7 @@ ol.link_1 li {
     /*overflow-wrap:break-word;*/
     word-break: break-all;
     /*overflow-x: hidden;*/
-   
+    margin: 0cm 0cm 2cm 0cm;
 }
 .link {
     text-align: left;
@@ -103,6 +103,7 @@ ol.link_1 li {
     color : white;
     background: rgba(0, 0, 0, 0.7);
     display: inline-block;
+    width: 1215px;
     position:relative;
     top: center;
     border: 3cm 3cm 3cm 3cm;
@@ -112,5 +113,4 @@ ol.link_1 li {
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 0.5cm;
-    margin: 0cm 0cm 2cm 0cm;
 }
