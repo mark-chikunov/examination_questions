@@ -8,8 +8,6 @@ body {
     /*margin: 1cm 2cm 2cm 2cm;*/
     margin: 2cm 151.5px 2cm 151.5px;
     width: 1215px;
-    position:relative;
-    word-wrap:break-word;
 }
 
 ol.link_1 {
@@ -44,7 +42,8 @@ ol.link_1 li {
 }
 
 .text_3 {
-    
+    word-wrap:break-word;
+    overflow-x: hidden;
 }
 
 .text_1 {
@@ -67,13 +66,12 @@ ol.link_1 li {
 .text_2 {
     text-align: left;
     font-size: 18px;
-    
     background: rgba(255, 255, 255, 0.95);
     display:inline-block;
     /*overflow-x: hidden; */ 
     border: 3cm 3cm 3cm 3cm;
     border-radius: 0px 0px 25px 25px;
-    
+    position:relative;
     padding-top: 0.5cm;
     padding-left: 1cm;
     padding-right: 1cm;
