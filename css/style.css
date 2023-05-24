@@ -10,6 +10,17 @@ body {
 ol.link_1 {
     list-style-type:  none;
     color: white;
+    width: 100%;
+    right: center;
+    position:relative;
+    top: center;
+    color : white;
+    background: rgba(0, 0, 0, 0.7);
+    border: 60cm 3cm 3cm 3cm;
+    border-radius: 25px 25px 25px 25px;
+    margin: 1cm 3cm 1cm 1cm;
+    overflow-wrap:break-word;
+    overflow-x: hidden;
 }
 
 ol li {
