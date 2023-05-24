@@ -7,7 +7,7 @@ body {
     margin: 0cm 3cm 3cm 1cm; 
 }
 
-.ol {
+.ol li {
     display: inline;
     list-style-type:  none;
     color: white;
@@ -21,7 +21,7 @@ body {
     margin: 1cm 3cm 1cm 1cm;
 }
 
-.ol li {
+.ol {
     display: block;
 }
 
