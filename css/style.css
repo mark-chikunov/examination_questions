@@ -37,11 +37,14 @@ ol.link_1 li {
     background: rgba(0, 0, 0, 0.7);
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px;
-    margin: 0cm 0cm 2cm 0cm; 
+    margin-top: 2cm; 
 }
 
 .text_3 {
-    margin: 0cm 2cm 2cm 2cm;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    margin-top: 1cm;
+    margin-bottom: 2cm;
 }
 
 .text_1 {
