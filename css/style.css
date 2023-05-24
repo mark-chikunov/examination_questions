@@ -4,7 +4,7 @@ html {
 
 body {
     background-image: url('../img/web-ready/back.jpg');
-    margin: 0cm 3cm 2cm 2cm; 
+    margin: 0cm 3cm 0cm 0cm; 
 }
 
 .text {
@@ -35,10 +35,8 @@ body {
     justify-content: center;
     position:relative;
     top: center;
-   /* margin: 0.4cm 4cm 0cm 4cm;*/ 
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 0px 0px;
-    border: 3cm 3cm 3cm 3cm;
     padding-top: 0.5cm;
     padding-left: 1cm;
     padding-right: 1cm;
@@ -56,8 +54,6 @@ body {
     top: center;
     overflow-wrap:break-word;
     overflow-x: hidden;  
-    /*margin: 0cm 4cm 0.4cm 4cm; 
-    /*border: 3cm 3cm 3cm 3cm;*/
     border: 3cm 3cm 3cm 3cm;
     border-radius: 0px 0px 25px 25px;
     padding-left: 1cm;
