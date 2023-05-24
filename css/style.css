@@ -30,7 +30,7 @@ ol.link_1 li {
 
 .text {
     display: inline-block;
-    
+    width: 1215px;
     position:relative;
     right: center;
     top: center;
@@ -42,8 +42,6 @@ ol.link_1 li {
 }
 
 .text_3 {
-    overflow-wrap:break-word;
-    word-wrap:break-word;
     overflow-x: hidden;
 }
 
@@ -77,5 +75,9 @@ ol.link_1 li {
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 0.5cm;
+    
+    overflow-wrap:break-word;
+    word-wrap:break-word;
+    /*overflow-x: hidden;*/
    
 }
