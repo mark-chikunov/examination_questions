@@ -18,6 +18,7 @@ ol li {
 
 ol.link_1 li {
     display: block;
+    float: left;
 }
 
 .text {
