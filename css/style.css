@@ -66,7 +66,6 @@ ol.link_1 li {
     width: 1215px;
     background: rgba(255, 255, 255, 0.95);
     display:inline-block;
-    justify-content: left;
     position:relative;
     word-wrap:break-word;
     /*overflow-x: hidden; */ 
