@@ -7,10 +7,14 @@ body {
     background-image: url('../img/web-ready/back.jpg');
 }
 
+.text_3 {
+    margin: 0cm 0cm 4cm 0cm;
+}
+
 .text_1 {
     text-align: center;
     font-size: 15px;
-    background-color: #ffffff;
+    background: rgba(255, 255, 255, 0.95);
     display: inline-block;
     width: 100%;
     right: center;
@@ -19,6 +23,8 @@ body {
     top: center;
    /* margin: 0.4cm 4cm 0cm 4cm;*/ 
     border: 3cm 3cm 3cm 3cm;
+    border-radius: 25px 25px 0px 0px;
+    border: 3cm 3cm 3cm 3cm;
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 1cm;
@@ -26,7 +32,7 @@ body {
 .text_2 {
     text-align: left;
     font-size: 18px;
-    background-color: #ffffff;
+    background: rgba(255, 255, 255, 0.95);
     display:inline-block;
     width:100%;
     right: center;
@@ -37,6 +43,8 @@ body {
     overflow-x: hidden;  
     /*margin: 0cm 4cm 0.4cm 4cm; 
     /*border: 3cm 3cm 3cm 3cm;*/
+    border: 3cm 3cm 3cm 3cm;
+    border-radius: 25px 25px 0px 0px;
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 1cm;
