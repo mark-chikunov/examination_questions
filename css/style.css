@@ -41,7 +41,7 @@ ol.link_1 li {
 }
 
 .text_3 {
-    margin: 0cm 2cm 2cm 2cm;
+    /*margin: 0cm 2cm 2cm 2cm;*/
 }
 
 .text_1 {
@@ -61,6 +61,7 @@ ol.link_1 li {
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 0.5cm;
+    margin: 0cm 2cm 2cm 2cm;
 }
 .text_2 {
     text-align: left;
@@ -79,4 +80,5 @@ ol.link_1 li {
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 1cm;
+    margin: 0cm 2cm 2cm 2cm;
 }
