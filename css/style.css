@@ -22,7 +22,7 @@ ol li {
 ol.link_1 li {
     display: block;
     float: left;
-    font-size: 15px;
+    font-size: 20px;
     text-decoration: none
 }
 
@@ -36,6 +36,7 @@ ol.link_1 li {
     background: rgba(0, 0, 0, 0.7);
     border: 60cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px;
+    margin: 2cm 0cm 0cm 0cm;
 }
 
 .text_3 {
