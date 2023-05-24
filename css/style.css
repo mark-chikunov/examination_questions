@@ -52,7 +52,7 @@ ol.link_1 li {
     width: 100%;
     right: center;
     justify-content: center;
-    position: absolute;
+    position: relative;
     top: center;
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 0px 0px;
