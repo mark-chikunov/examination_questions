@@ -7,6 +7,7 @@ body {
     background-image: url('../img/web-ready/back.jpg');
     /*margin: 1cm 2cm 2cm 2cm;*/
    margin: 2cm 151.5px 2cm 151.5px;
+   width: 1215px;
 }
 
 ol.link_1 {
@@ -29,7 +30,7 @@ ol.link_1 li {
 
 .text {
     display: inline-block;
-    width: 1215px;
+    
     position:relative;
     right: center;
     top: center;
@@ -41,13 +42,13 @@ ol.link_1 li {
 }
 
 .text_3 {
-    width: 1215px;
+    
 }
 
 .text_1 {
     text-align: center;
     font-size: 15px;
-    width: 1215px;
+    
     color : white;
     background: rgba(0, 0, 0, 0.7);
     display: inline-block;
@@ -63,7 +64,7 @@ ol.link_1 li {
 .text_2 {
     text-align: left;
     font-size: 18px;
-    width: 1215px;
+    
     background: rgba(255, 255, 255, 0.95);
     display:inline-block;
     position:relative;
