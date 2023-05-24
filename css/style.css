@@ -55,10 +55,8 @@ ol.link_1 li {
     color : white;
     background: rgba(0, 0, 0, 0.7);
     display: inline-block;
-    right: center;
     justify-content: center;
     position: relative;
-    top: center;
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 0px 0px;
     padding-top: 0.5cm;
@@ -72,10 +70,8 @@ ol.link_1 li {
     width: 1215px;
     background: rgba(255, 255, 255, 0.95);
     display:inline-block;
-    right: center;
     justify-content: left;
     position:relative;
-    top: center;
     word-wrap:break-word;
     /*overflow-x: hidden; */ 
     border: 3cm 3cm 3cm 3cm;
