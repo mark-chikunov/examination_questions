@@ -39,9 +39,10 @@ body {
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 0px 0px;
     border: 3cm 3cm 3cm 3cm;
-    padding-left: 1cm;
-    padding-right: 1cm;
-    padding-bottom: 1cm;
+    padding-top: 0.5cm;
+    padding-left: 0.5cm;
+    padding-right: 0.5cm;
+    padding-bottom: 0.5cm;
 }
 .text_2 {
     text-align: left;
