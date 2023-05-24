@@ -39,17 +39,17 @@ ol.link_1 li {
     background: rgba(0, 0, 0, 0.7);
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px; 
+    margin: 0cm 0cm 2cm 0cm;
 }
 
 .text_3 {
     overflow-x: hidden;
-    margin: 0cm 0px 2cm 0px;
 }
 
 .text_1 {
     text-align: center;
     font-size: 15px;
-    
+    width: 1215px;
     color : white;
     background: rgba(0, 0, 0, 0.7);
     display: inline-block;
@@ -80,5 +80,6 @@ ol.link_1 li {
     /*overflow-wrap:break-word;*/
     word-break: break-all;
     /*overflow-x: hidden;*/
+    margin: 0cm 0cm 2cm 0cm;
    
 }
