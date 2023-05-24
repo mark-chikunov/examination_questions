@@ -44,6 +44,7 @@ ol.link_1 li {
 
 .text_3 {
     overflow-x: hidden;
+    margin: 0cm 0cm 2cm 0cm;
 }
 
  .button {
@@ -95,7 +96,6 @@ ol.link_1 li {
     /*overflow-wrap:break-word;*/
     word-break: break-all;
     /*overflow-x: hidden;*/
-    margin: 0cm 0cm 2cm 0cm;
 }
 .link {
     text-align: left;
@@ -108,9 +108,4 @@ ol.link_1 li {
     top: center;
     border: 3cm 3cm 3cm 3cm;
     border-radius: 0px 0px 50px 50px;
-    border: 3cm 3cm 3cm 3cm;
-    padding-top: 0.5cm;
-    padding-left: 1cm;
-    padding-right: 1cm;
-    padding-bottom: 0.5cm;
 }
