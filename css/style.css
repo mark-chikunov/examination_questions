@@ -46,14 +46,21 @@ ol.link_1 li {
     overflow-x: hidden;
 }
 
-.v {
-    text-align: center;
-    color: white;
-    background: rgba(0, 0, 0, 0.7);
-    border-radius: 25px 25px 25px 25px; 
-    margin-top: 1cm;
-    height: 1cm;
-}
+ .button {
+        background-color: rgba(0, 0, 0, 0.7);
+        border-radius: 25px 25px 25px 25px; 
+        margin-top: 1cm;
+        height: 1cm;
+     
+        border: none;
+        color: white;
+        padding: 20px 34px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 20px;
+        cursor: pointer;
+      }
 
 .text_1 {
     text-align: center;
