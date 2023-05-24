@@ -7,6 +7,19 @@ body {
     background-image: url('../img/web-ready/back.jpg');
 }
 
+.text {
+    display: inline-block;
+    width: 100%;
+    right: center;
+    position:relative;
+    top: center;
+    color : white;
+    background: rgba(0, 0, 0, 0.7);
+    border: 60cm 3cm 3cm 3cm;
+    border-radius: 25px 25px 25px 25px;
+    margin: 1cm 3cm 1cm 1cm;
+}
+
 .text_3 {
     margin: 0cm 0cm 2cm 0cm;
 }
