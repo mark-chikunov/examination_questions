@@ -13,6 +13,7 @@ ol.link_1 {
     color: white;
     overflow-wrap:break-word;
     overflow-x: hidden;
+    padding-right: 3cm;
 }
 
 ol li {
@@ -22,6 +23,7 @@ ol li {
 ol.link_1 li {
     display: block;
     float: left;
+    font-size: 15px;
 }
 
 .text {
