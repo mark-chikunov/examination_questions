@@ -51,13 +51,15 @@ ol.link_1 li {
         border-radius: 25px 25px 25px 25px; 
         margin-top: 1cm;
         height: 1cm;
-     
-        border: none;
+        width: 1215px;
         color: white;
         padding: 20px 34px;
         text-align: center;
         text-decoration: none;
         display: inline-block;
+        position:relative;
+        right: center;
+        top: center;
         font-size: 20px;
         cursor: pointer;
       }
