@@ -1,7 +1,10 @@
 html {
     /*height: 100%;*/
-    background-color: #c0c0c0;
     margin: 0cm 3cm 1cm 1cm; 
+}
+
+body {
+    background-image: url('../img/web-ready/back.jpg');
 }
 
 .text_1 {
