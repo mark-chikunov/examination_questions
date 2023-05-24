@@ -5,7 +5,7 @@ html {
 
 body {
     background-image: url('../img/web-ready/back.jpg');
-    margin: 1cm 2cm 2cm 2cm; 
+    /*margin: 1cm 2cm 2cm 2cm;*/
 }
 
 ol.link_1 {
@@ -41,7 +41,7 @@ ol.link_1 li {
 }
 
 .text_3 {
-    /*margin: 0cm 2cm 2cm 2cm;*/
+    margin: 0cm 2cm 2cm 2cm;
 }
 
 .text_1 {
