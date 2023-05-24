@@ -29,7 +29,7 @@ ol li {
 
 ol.link_1 li {
     display: block;
-    float: center;
+    float: left;
 }
 
 .text {
