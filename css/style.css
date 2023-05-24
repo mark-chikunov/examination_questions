@@ -5,7 +5,7 @@ html {
 
 body {
     background-image: url('../img/web-ready/back.jpg');
-    margin: 0cm 2cm 1cm 2cm; 
+    margin: 2cm 2cm 1cm 2cm; 
 }
 
 ol.link_1 {
@@ -29,14 +29,14 @@ ol.link_1 li {
 .text {
     display: inline-block;
     width: 100%;
-    right: center;
     position:relative;
+    right: center;
     top: center;
+    left : center;
     color : white;
     background: rgba(0, 0, 0, 0.7);
     border: 60cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px;
-    margin: 2cm 0cm 0cm 0cm;
 }
 
 .text_3 {
