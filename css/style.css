@@ -38,11 +38,12 @@ ol.link_1 li {
     border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px;
     margin-top: 2cm; 
-    margin-left: 112.5px;
+    margin-left: 150px;
+    margin-right: 150px;
 }
 
 .text_3 {
-    margin-left: 112.5px;
+    margin-left: 150px;
     margin-right: 2cm;
     margin-top: 1cm;
     margin-bottom: 2cm;
