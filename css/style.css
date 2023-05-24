@@ -5,7 +5,7 @@ html {
 
 body {
     background-image: url('../img/web-ready/back.jpg');
-    margin: 2cm 2cm 1cm 2cm; 
+    margin: 0cm 2cm 1cm 2cm; 
 }
 
 ol.link_1 {
@@ -22,7 +22,7 @@ ol li {
 ol.link_1 li {
     display: block;
     float: left;
-    font-size: 20px;
+    font-size: 18px;
     text-decoration: none
 }
 
@@ -32,10 +32,10 @@ ol.link_1 li {
     position:relative;
     right: center;
     top: center;
-    left : center;
+    /*left : center;*/
     color : white;
     background: rgba(0, 0, 0, 0.7);
-    border: 60cm 3cm 3cm 3cm;
+    border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px;
 }
 
