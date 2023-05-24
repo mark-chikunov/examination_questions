@@ -5,7 +5,7 @@ html {
 
 body {
     background-image: url('../img/web-ready/back.jpg');
-    margin: 0cm 2cm 1cm 2cm; 
+    margin: 1cm 2cm 1cm 2cm; 
 }
 
 ol.link_1 {
@@ -60,7 +60,6 @@ ol.link_1 li {
     padding-left: 1cm;
     padding-right: 1cm;
     padding-bottom: 0.5cm;
-    margin: 2cm 0cm 0cm 0cm;
 }
 .text_2 {
     text-align: left;
