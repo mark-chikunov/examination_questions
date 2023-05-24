@@ -8,7 +8,7 @@ body {
 }
 
 .link_1 {
-    display: inline-block;
+    display: table;
     width: 100%;
     right: center;
     position:relative;
