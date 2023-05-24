@@ -53,9 +53,9 @@ ol.link_1 li {
     border-radius: 50px 50px 50px 50px; 
     margin-top: 1cm;
     height: 1cm;
-    width: 1215px;
+    width: 100%;
     color: white;
-    padding: 20px 34px;
+    padding: 20px 20px;
     text-align: center;
     text-decoration: none;
     position:relative;
