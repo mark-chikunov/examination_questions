@@ -50,9 +50,8 @@ ol.link_1 li {
     text-align: center;
     color: white;
     background: rgba(0, 0, 0, 0.7);
-    border: 3cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px; 
-    padding-top: 1cm;
+    margin-top: 1cm;
 }
 
 .text_1 {
