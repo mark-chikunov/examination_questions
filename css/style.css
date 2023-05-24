@@ -1,10 +1,10 @@
 html {
     /*height: 100%;*/
-    margin: 0cm 3cm 1cm 1cm; 
 }
 
 body {
     background-image: url('../img/web-ready/back.jpg');
+    margin: 0cm 3cm 1cm 1cm; 
 }
 
 .text {
