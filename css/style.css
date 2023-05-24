@@ -5,7 +5,6 @@ html {
 body {
     background-image: url('../img/web-ready/back.jpg');
     margin: 0cm 2cm 1cm 2cm; 
-    overflow: hidden;
 }
 
 ol.link_1 {
