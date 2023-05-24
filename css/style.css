@@ -42,6 +42,7 @@ ol.link_1 li {
 }
 
 .text_3 {
+    overflow-wrap:break-word;
     word-wrap:break-word;
     overflow-x: hidden;
 }
