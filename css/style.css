@@ -47,23 +47,23 @@ ol.link_1 li {
     margin: 0cm 0cm 2cm 0cm;
 }
 
- .button {
-        background-color: rgba(0, 0, 0, 0.7);
-        border-radius: 50px 50px 50px 50px; 
-        margin-top: 1cm;
-        height: 1cm;
-        width: 1215px;
-        color: white;
-        padding: 20px 34px;
-        text-align: center;
-        text-decoration: none;
-        display: inline-block;
-        position:relative;
-        right: center;
-        top: center;
-        font-size: 20px;
-        cursor: pointer;
-      }
+ .v button {
+    display: inline-block;
+    background-color: rgba(0, 0, 0, 0.7);
+    border-radius: 50px 50px 50px 50px; 
+    margin-top: 1cm;
+    height: 1cm;
+    width: 1215px;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    position:relative;
+    right: center;
+    top: center;
+    font-size: 20px;
+    cursor: pointer;
+    }
 
 .text_1 {
     text-align: center;
@@ -77,8 +77,8 @@ ol.link_1 li {
     border: 3cm 3cm 3cm 3cm;
     border-radius: 50px 50px 0px 0px;
     
-   
-}
+    }
+
 .text_2 {
     text-align: left;
     font-size: 18px;
