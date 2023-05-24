@@ -51,6 +51,7 @@ ol.link_1 li {
 .text_1 {
     text-align: center;
     font-size: 15px;
+    width: 1215px;
     color : white;
     background: rgba(0, 0, 0, 0.7);
     display: inline-block;
@@ -68,6 +69,7 @@ ol.link_1 li {
 .text_2 {
     text-align: left;
     font-size: 18px;
+    width: 1215px;
     background: rgba(255, 255, 255, 0.95);
     display:inline-block;
     right: center;
