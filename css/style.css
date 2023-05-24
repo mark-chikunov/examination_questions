@@ -105,7 +105,10 @@ ol.link_1 li {
     display: inline-block;
     width: 1215px;
     position:relative;
-    top: center;
     border: 3cm 3cm 3cm 3cm;
     border-radius: 0px 0px 50px 50px;
+    padding-top: 0.5cm;
+    padding-left: 1cm;
+    padding-right: 1cm;
+    padding-bottom: 0.5cm;
 }
