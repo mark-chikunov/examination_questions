@@ -6,8 +6,7 @@ html {
 body {
     background-image: url('../img/web-ready/back.jpg');
     /*margin: 1cm 2cm 2cm 2cm;*/
-    margin-left: 151.5px;
-    margin-right: 151.5px;
+   margin: 0 auto;
 }
 
 ol.link_1 {
@@ -38,14 +37,11 @@ ol.link_1 li {
     color : white;
     background: rgba(0, 0, 0, 0.7);
     border: 3cm 3cm 3cm 3cm;
-    border-radius: 25px 25px 25px 25px;
-    margin-top: 2cm; 
+    border-radius: 25px 25px 25px 25px; 
 }
 
 .text_3 {
     width: 1215px;
-    margin-top: 1cm;
-    margin-bottom: 2cm;
 }
 
 .text_1 {
