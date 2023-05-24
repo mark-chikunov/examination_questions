@@ -9,11 +9,11 @@ body {
 
 .link_1 {
     display: inline-block;
-    float: left;
-    width: 100%;
+    list-style-type:  none;
+    /*width: 100%;
     right: center;
     position:relative;
-    top: center; 
+    top: center;*/ 
     background: rgba(0, 0, 0, 0.7);
     border: 60cm 3cm 3cm 3cm;
     border-radius: 25px 25px 25px 25px;
