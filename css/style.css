@@ -93,7 +93,7 @@ ol.link_1 li {
     padding-right: 1cm;
     padding-bottom: 0.5cm;
     
-    /*overflow-wrap:break-word;*/
+    overflow-wrap:break-word;
     word-break: break-all;
     /*overflow-x: hidden;*/
 }
